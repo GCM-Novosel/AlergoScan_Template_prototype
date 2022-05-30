@@ -1,0 +1,7 @@
+#Mon May 30 14:49:25 CEST 2022
+base.0=C\:\\Users\\tomis\\Downloads\\OCR-Food-ingredients--master\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=C\:\\Users\\tomis\\Downloads\\OCR-Food-ingredients--master\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out

@@ -1,0 +1,255 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\tomis\Downloads\OCR-Food-ingredients--master\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from C:\Users\tomis\Downloads\OCR-Food-ingredients--master\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from C:\Users\tomis\Downloads\OCR-Food-ingredients--master\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from C:\Users\tomis\Downloads\OCR-Food-ingredients--master\app\src\main\AndroidManifest.xml:2:1-36:12
+MERGED from [com.google.android.material:material:1.1.0-alpha06] C:\Users\tomis\.gradle\caches\transforms-2\files-2.1\aa0b6456715ca5f138b742de12899991\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0-alpha02] C:\Users\tomis\.gradle\caches\transforms-2\files-2.1\6bfebbfacb24c861f4050e2c4f66ca14\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.1.0-alpha03] C:\Users\tomis\.gradle\caches\transforms-2\files-2.1\4f18eb65a7427de922fa36fe1d4b3b44\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-vision:11.0.4] C:\Users\tomis\.gradle\caches\transforms-2\files-2.1\eb69ad56ce3f8ca4d625fc0c5c54cc98\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-vision-common:11.0.4] C:\Users\tomis\.gradle\caches\transforms-2\files-2.1\240ce94d3dc6166b2e9f066c2e5176eb\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\tomis\.gradle\caches\transforms-2\files-2.1\1ef3d9586b0176aa26d1d40d638be34f\AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] C:\Users\tomis\.gradle\caches\transforms-2\files-2.1\8978c046969251a10aaf220d1920db7c\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\tomis\.gradle\caches\transforms-2\files-2.1\97ef93458fd6565cc1022d0e847e0a17\AndroidManifest.xml:16:1-23:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\tomis\.gradle\caches\transforms-2\files-2.1\cb475c0d4aaa2285ff56e83d20c0ea89\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0-alpha03] C:\Users\tomis\.gradle\caches\transforms-2\files-2.1\b3ff0691ab5a1b9bf89a475371012908\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\tomis\.gradle\caches\transforms-2\files-2.1\6e046f5e8258ad8e7f49ca47f9135156\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\tomis\.gradle\caches\transforms-2\files-2.1\b5280c4143aeb863f297654ec0b0cddd\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\tomis\.gradle\caches\transforms-2\files-2.1\14e891abe137ba286948fcfc8503d8fd\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\tomis\.gradle\caches\transforms-2\files-2.1\ed1398e504a29793fda79338e9b0bc93\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\tomis\.gradle\caches\transforms-2\files-2.1\dfbcd60d2a5bc10f64575995a692a5c4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0-alpha01] C:\Users\tomis\.gradle\caches\transforms-2\files-2.1\8615355eefce82cbdb7adb241acbdb9b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.1] C:\Users\tomis\.gradle\caches\transforms-2\files-2.1\b4417085cefc00b22205d724479d484b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0-alpha01] C:\Users\tomis\.gradle\caches\transforms-2\files-2.1\cafcc4f5a986914b35f8073a372d6b29\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\tomis\.gradle\caches\transforms-2\files-2.1\0352f1b2909142e3bb2fafae327f6e84\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0-alpha05] C:\Users\tomis\.gradle\caches\transforms-2\files-2.1\36cd15d6913f7cdadcaa98800b69b7f8\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\tomis\.gradle\caches\transforms-2\files-2.1\0072c8f90585089c30f974a99f369a9a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\tomis\.gradle\caches\transforms-2\files-2.1\6e1dd018d2d35772318f69969351f008\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\tomis\.gradle\caches\transforms-2\files-2.1\4c7014cd34ce0ef3c6a9b290eb01d5f1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\tomis\.gradle\caches\transforms-2\files-2.1\2ba60346ee84dc4f5ef3a91e1e109fc8\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\tomis\.gradle\caches\transforms-2\files-2.1\14baebd97f63b493dba29a237f65af69\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\tomis\.gradle\caches\transforms-2\files-2.1\b43d7aa607b249ddfed976e6715408ec\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0-alpha03] C:\Users\tomis\.gradle\caches\transforms-2\files-2.1\551b8314f65b90686d425eeb26cc372e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\tomis\.gradle\caches\transforms-2\files-2.1\a1c4bfd16375164a3fa356e136555bd1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\tomis\.gradle\caches\transforms-2\files-2.1\d2717d3fb7f23671057b78676fc134b2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\tomis\.gradle\caches\transforms-2\files-2.1\5d4ee45e62156497c3e60b62016a6a4e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\tomis\.gradle\caches\transforms-2\files-2.1\4865c5fbf2fad98594cfe8b440f71b76\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\tomis\.gradle\caches\transforms-2\files-2.1\e7206997a453db47e1857dcacfd6c56a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0-alpha05] C:\Users\tomis\.gradle\caches\transforms-2\files-2.1\384a196274fca72de4447d5b75f05602\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0-alpha05] C:\Users\tomis\.gradle\caches\transforms-2\files-2.1\6f7ca81b6478817fedb45065c9a4d3cc\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-alpha02] C:\Users\tomis\.gradle\caches\transforms-2\files-2.1\39632016fc1d28573298b2599dde4efb\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\tomis\.gradle\caches\transforms-2\files-2.1\e33e52fda79cf5a35dbdf86ca225d192\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\tomis\.gradle\caches\transforms-2\files-2.1\4545431cf9b6e757b4ae2b54334ac9fa\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\tomis\.gradle\caches\transforms-2\files-2.1\d003d5a7fddb272783370ec796712a0c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0-alpha03] C:\Users\tomis\.gradle\caches\transforms-2\files-2.1\aa2e553ea6ffb2486f3dc2c7c3695aef\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0-alpha02] C:\Users\tomis\.gradle\caches\transforms-2\files-2.1\0565daf3c49d237f2bdbeb46b6a165be\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0-alpha03] C:\Users\tomis\.gradle\caches\transforms-2\files-2.1\fd1583ff7a17b701c10cc9c688cc6c89\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\tomis\.gradle\caches\transforms-2\files-2.1\6513cf77e8a16862f9bed0353ccefb7e\AndroidManifest.xml:2:1-11:12
+INJECTED from C:\Users\tomis\Downloads\OCR-Food-ingredients--master\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from C:\Users\tomis\Downloads\OCR-Food-ingredients--master\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from C:\Users\tomis\Downloads\OCR-Food-ingredients--master\app\src\main\AndroidManifest.xml:2:1-36:12
+	package
+		ADDED from C:\Users\tomis\Downloads\OCR-Food-ingredients--master\app\src\main\AndroidManifest.xml:3:5-37
+		INJECTED from C:\Users\tomis\Downloads\OCR-Food-ingredients--master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\tomis\Downloads\OCR-Food-ingredients--master\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\tomis\Downloads\OCR-Food-ingredients--master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\tomis\Downloads\OCR-Food-ingredients--master\app\src\main\AndroidManifest.xml:2:1-36:12
+		INJECTED from C:\Users\tomis\Downloads\OCR-Food-ingredients--master\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\tomis\Downloads\OCR-Food-ingredients--master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\tomis\Downloads\OCR-Food-ingredients--master\app\src\main\AndroidManifest.xml:2:1-36:12
+		INJECTED from C:\Users\tomis\Downloads\OCR-Food-ingredients--master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\tomis\Downloads\OCR-Food-ingredients--master\app\src\main\AndroidManifest.xml:2:11-69
+uses-feature#android.hardware.camera
+ADDED from C:\Users\tomis\Downloads\OCR-Food-ingredients--master\app\src\main\AndroidManifest.xml:5:5-60
+	android:name
+		ADDED from C:\Users\tomis\Downloads\OCR-Food-ingredients--master\app\src\main\AndroidManifest.xml:5:19-57
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\tomis\Downloads\OCR-Food-ingredients--master\app\src\main\AndroidManifest.xml:7:5-65
+	android:name
+		ADDED from C:\Users\tomis\Downloads\OCR-Food-ingredients--master\app\src\main\AndroidManifest.xml:7:22-62
+application
+ADDED from C:\Users\tomis\Downloads\OCR-Food-ingredients--master\app\src\main\AndroidManifest.xml:9:5-34:19
+MERGED from [com.google.android.material:material:1.1.0-alpha06] C:\Users\tomis\.gradle\caches\transforms-2\files-2.1\aa0b6456715ca5f138b742de12899991\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0-alpha06] C:\Users\tomis\.gradle\caches\transforms-2\files-2.1\aa0b6456715ca5f138b742de12899991\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-vision:11.0.4] C:\Users\tomis\.gradle\caches\transforms-2\files-2.1\eb69ad56ce3f8ca4d625fc0c5c54cc98\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-vision:11.0.4] C:\Users\tomis\.gradle\caches\transforms-2\files-2.1\eb69ad56ce3f8ca4d625fc0c5c54cc98\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-vision-common:11.0.4] C:\Users\tomis\.gradle\caches\transforms-2\files-2.1\240ce94d3dc6166b2e9f066c2e5176eb\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-vision-common:11.0.4] C:\Users\tomis\.gradle\caches\transforms-2\files-2.1\240ce94d3dc6166b2e9f066c2e5176eb\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\tomis\.gradle\caches\transforms-2\files-2.1\1ef3d9586b0176aa26d1d40d638be34f\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\tomis\.gradle\caches\transforms-2\files-2.1\1ef3d9586b0176aa26d1d40d638be34f\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] C:\Users\tomis\.gradle\caches\transforms-2\files-2.1\8978c046969251a10aaf220d1920db7c\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] C:\Users\tomis\.gradle\caches\transforms-2\files-2.1\8978c046969251a10aaf220d1920db7c\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\tomis\.gradle\caches\transforms-2\files-2.1\97ef93458fd6565cc1022d0e847e0a17\AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\tomis\.gradle\caches\transforms-2\files-2.1\97ef93458fd6565cc1022d0e847e0a17\AndroidManifest.xml:19:5-21:19
+MERGED from [androidx.core:core:1.1.0-alpha05] C:\Users\tomis\.gradle\caches\transforms-2\files-2.1\6f7ca81b6478817fedb45065c9a4d3cc\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.1.0-alpha05] C:\Users\tomis\.gradle\caches\transforms-2\files-2.1\6f7ca81b6478817fedb45065c9a4d3cc\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-alpha02] C:\Users\tomis\.gradle\caches\transforms-2\files-2.1\39632016fc1d28573298b2599dde4efb\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-alpha02] C:\Users\tomis\.gradle\caches\transforms-2\files-2.1\39632016fc1d28573298b2599dde4efb\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\tomis\.gradle\caches\transforms-2\files-2.1\6513cf77e8a16862f9bed0353ccefb7e\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\tomis\.gradle\caches\transforms-2\files-2.1\6513cf77e8a16862f9bed0353ccefb7e\AndroidManifest.xml:9:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0-alpha05] C:\Users\tomis\.gradle\caches\transforms-2\files-2.1\6f7ca81b6478817fedb45065c9a4d3cc\AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from C:\Users\tomis\Downloads\OCR-Food-ingredients--master\app\src\main\AndroidManifest.xml:15:9-35
+	android:label
+		ADDED from C:\Users\tomis\Downloads\OCR-Food-ingredients--master\app\src\main\AndroidManifest.xml:13:9-41
+	android:hardwareAccelerated
+		ADDED from C:\Users\tomis\Downloads\OCR-Food-ingredients--master\app\src\main\AndroidManifest.xml:10:9-44
+	android:roundIcon
+		ADDED from C:\Users\tomis\Downloads\OCR-Food-ingredients--master\app\src\main\AndroidManifest.xml:14:9-54
+	android:icon
+		ADDED from C:\Users\tomis\Downloads\OCR-Food-ingredients--master\app\src\main\AndroidManifest.xml:12:9-43
+	android:allowBackup
+		ADDED from C:\Users\tomis\Downloads\OCR-Food-ingredients--master\app\src\main\AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from C:\Users\tomis\Downloads\OCR-Food-ingredients--master\app\src\main\AndroidManifest.xml:16:9-53
+activity#com.example.smartfoods.ocr.OcrCaptureActivity
+ADDED from C:\Users\tomis\Downloads\OCR-Food-ingredients--master\app\src\main\AndroidManifest.xml:17:9-19:41
+	android:label
+		ADDED from C:\Users\tomis\Downloads\OCR-Food-ingredients--master\app\src\main\AndroidManifest.xml:19:13-38
+	android:name
+		ADDED from C:\Users\tomis\Downloads\OCR-Food-ingredients--master\app\src\main\AndroidManifest.xml:18:13-51
+activity#com.example.smartfoods.AfterCaptureActivity
+ADDED from C:\Users\tomis\Downloads\OCR-Food-ingredients--master\app\src\main\AndroidManifest.xml:20:9-58
+	android:name
+		ADDED from C:\Users\tomis\Downloads\OCR-Food-ingredients--master\app\src\main\AndroidManifest.xml:20:19-55
+activity#com.example.smartfoods.PreferencesActivity
+ADDED from C:\Users\tomis\Downloads\OCR-Food-ingredients--master\app\src\main\AndroidManifest.xml:21:9-66
+	android:name
+		ADDED from C:\Users\tomis\Downloads\OCR-Food-ingredients--master\app\src\main\AndroidManifest.xml:21:19-54
+meta-data#com.google.android.gms.vision.DEPENDENCIES
+ADDED from C:\Users\tomis\Downloads\OCR-Food-ingredients--master\app\src\main\AndroidManifest.xml:23:9-25:35
+	android:value
+		ADDED from C:\Users\tomis\Downloads\OCR-Food-ingredients--master\app\src\main\AndroidManifest.xml:25:13-32
+	android:name
+		ADDED from C:\Users\tomis\Downloads\OCR-Food-ingredients--master\app\src\main\AndroidManifest.xml:24:13-70
+activity#com.example.smartfoods.MainActivity
+ADDED from C:\Users\tomis\Downloads\OCR-Food-ingredients--master\app\src\main\AndroidManifest.xml:27:9-33:20
+	android:name
+		ADDED from C:\Users\tomis\Downloads\OCR-Food-ingredients--master\app\src\main\AndroidManifest.xml:27:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\tomis\Downloads\OCR-Food-ingredients--master\app\src\main\AndroidManifest.xml:28:13-32:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\tomis\Downloads\OCR-Food-ingredients--master\app\src\main\AndroidManifest.xml:29:17-69
+	android:name
+		ADDED from C:\Users\tomis\Downloads\OCR-Food-ingredients--master\app\src\main\AndroidManifest.xml:29:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\tomis\Downloads\OCR-Food-ingredients--master\app\src\main\AndroidManifest.xml:31:17-77
+	android:name
+		ADDED from C:\Users\tomis\Downloads\OCR-Food-ingredients--master\app\src\main\AndroidManifest.xml:31:27-74
+uses-sdk
+INJECTED from C:\Users\tomis\Downloads\OCR-Food-ingredients--master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\tomis\Downloads\OCR-Food-ingredients--master\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\tomis\Downloads\OCR-Food-ingredients--master\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.1.0-alpha06] C:\Users\tomis\.gradle\caches\transforms-2\files-2.1\aa0b6456715ca5f138b742de12899991\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0-alpha06] C:\Users\tomis\.gradle\caches\transforms-2\files-2.1\aa0b6456715ca5f138b742de12899991\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0-alpha02] C:\Users\tomis\.gradle\caches\transforms-2\files-2.1\6bfebbfacb24c861f4050e2c4f66ca14\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0-alpha02] C:\Users\tomis\.gradle\caches\transforms-2\files-2.1\6bfebbfacb24c861f4050e2c4f66ca14\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0-alpha03] C:\Users\tomis\.gradle\caches\transforms-2\files-2.1\4f18eb65a7427de922fa36fe1d4b3b44\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0-alpha03] C:\Users\tomis\.gradle\caches\transforms-2\files-2.1\4f18eb65a7427de922fa36fe1d4b3b44\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision:11.0.4] C:\Users\tomis\.gradle\caches\transforms-2\files-2.1\eb69ad56ce3f8ca4d625fc0c5c54cc98\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-vision:11.0.4] C:\Users\tomis\.gradle\caches\transforms-2\files-2.1\eb69ad56ce3f8ca4d625fc0c5c54cc98\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-vision-common:11.0.4] C:\Users\tomis\.gradle\caches\transforms-2\files-2.1\240ce94d3dc6166b2e9f066c2e5176eb\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-vision-common:11.0.4] C:\Users\tomis\.gradle\caches\transforms-2\files-2.1\240ce94d3dc6166b2e9f066c2e5176eb\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\tomis\.gradle\caches\transforms-2\files-2.1\1ef3d9586b0176aa26d1d40d638be34f\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\tomis\.gradle\caches\transforms-2\files-2.1\1ef3d9586b0176aa26d1d40d638be34f\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] C:\Users\tomis\.gradle\caches\transforms-2\files-2.1\8978c046969251a10aaf220d1920db7c\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] C:\Users\tomis\.gradle\caches\transforms-2\files-2.1\8978c046969251a10aaf220d1920db7c\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\tomis\.gradle\caches\transforms-2\files-2.1\97ef93458fd6565cc1022d0e847e0a17\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\tomis\.gradle\caches\transforms-2\files-2.1\97ef93458fd6565cc1022d0e847e0a17\AndroidManifest.xml:17:5-43
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\tomis\.gradle\caches\transforms-2\files-2.1\cb475c0d4aaa2285ff56e83d20c0ea89\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\tomis\.gradle\caches\transforms-2\files-2.1\cb475c0d4aaa2285ff56e83d20c0ea89\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0-alpha03] C:\Users\tomis\.gradle\caches\transforms-2\files-2.1\b3ff0691ab5a1b9bf89a475371012908\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0-alpha03] C:\Users\tomis\.gradle\caches\transforms-2\files-2.1\b3ff0691ab5a1b9bf89a475371012908\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\tomis\.gradle\caches\transforms-2\files-2.1\6e046f5e8258ad8e7f49ca47f9135156\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\tomis\.gradle\caches\transforms-2\files-2.1\6e046f5e8258ad8e7f49ca47f9135156\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\tomis\.gradle\caches\transforms-2\files-2.1\b5280c4143aeb863f297654ec0b0cddd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\tomis\.gradle\caches\transforms-2\files-2.1\b5280c4143aeb863f297654ec0b0cddd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\tomis\.gradle\caches\transforms-2\files-2.1\14e891abe137ba286948fcfc8503d8fd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\tomis\.gradle\caches\transforms-2\files-2.1\14e891abe137ba286948fcfc8503d8fd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\tomis\.gradle\caches\transforms-2\files-2.1\ed1398e504a29793fda79338e9b0bc93\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\tomis\.gradle\caches\transforms-2\files-2.1\ed1398e504a29793fda79338e9b0bc93\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\tomis\.gradle\caches\transforms-2\files-2.1\dfbcd60d2a5bc10f64575995a692a5c4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\tomis\.gradle\caches\transforms-2\files-2.1\dfbcd60d2a5bc10f64575995a692a5c4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0-alpha01] C:\Users\tomis\.gradle\caches\transforms-2\files-2.1\8615355eefce82cbdb7adb241acbdb9b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0-alpha01] C:\Users\tomis\.gradle\caches\transforms-2\files-2.1\8615355eefce82cbdb7adb241acbdb9b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.1] C:\Users\tomis\.gradle\caches\transforms-2\files-2.1\b4417085cefc00b22205d724479d484b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.1] C:\Users\tomis\.gradle\caches\transforms-2\files-2.1\b4417085cefc00b22205d724479d484b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0-alpha01] C:\Users\tomis\.gradle\caches\transforms-2\files-2.1\cafcc4f5a986914b35f8073a372d6b29\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0-alpha01] C:\Users\tomis\.gradle\caches\transforms-2\files-2.1\cafcc4f5a986914b35f8073a372d6b29\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\tomis\.gradle\caches\transforms-2\files-2.1\0352f1b2909142e3bb2fafae327f6e84\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\tomis\.gradle\caches\transforms-2\files-2.1\0352f1b2909142e3bb2fafae327f6e84\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0-alpha05] C:\Users\tomis\.gradle\caches\transforms-2\files-2.1\36cd15d6913f7cdadcaa98800b69b7f8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0-alpha05] C:\Users\tomis\.gradle\caches\transforms-2\files-2.1\36cd15d6913f7cdadcaa98800b69b7f8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\tomis\.gradle\caches\transforms-2\files-2.1\0072c8f90585089c30f974a99f369a9a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\tomis\.gradle\caches\transforms-2\files-2.1\0072c8f90585089c30f974a99f369a9a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\tomis\.gradle\caches\transforms-2\files-2.1\6e1dd018d2d35772318f69969351f008\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\tomis\.gradle\caches\transforms-2\files-2.1\6e1dd018d2d35772318f69969351f008\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\tomis\.gradle\caches\transforms-2\files-2.1\4c7014cd34ce0ef3c6a9b290eb01d5f1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\tomis\.gradle\caches\transforms-2\files-2.1\4c7014cd34ce0ef3c6a9b290eb01d5f1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\tomis\.gradle\caches\transforms-2\files-2.1\2ba60346ee84dc4f5ef3a91e1e109fc8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\tomis\.gradle\caches\transforms-2\files-2.1\2ba60346ee84dc4f5ef3a91e1e109fc8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\tomis\.gradle\caches\transforms-2\files-2.1\14baebd97f63b493dba29a237f65af69\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\tomis\.gradle\caches\transforms-2\files-2.1\14baebd97f63b493dba29a237f65af69\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\tomis\.gradle\caches\transforms-2\files-2.1\b43d7aa607b249ddfed976e6715408ec\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\tomis\.gradle\caches\transforms-2\files-2.1\b43d7aa607b249ddfed976e6715408ec\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0-alpha03] C:\Users\tomis\.gradle\caches\transforms-2\files-2.1\551b8314f65b90686d425eeb26cc372e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0-alpha03] C:\Users\tomis\.gradle\caches\transforms-2\files-2.1\551b8314f65b90686d425eeb26cc372e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\tomis\.gradle\caches\transforms-2\files-2.1\a1c4bfd16375164a3fa356e136555bd1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\tomis\.gradle\caches\transforms-2\files-2.1\a1c4bfd16375164a3fa356e136555bd1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\tomis\.gradle\caches\transforms-2\files-2.1\d2717d3fb7f23671057b78676fc134b2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\tomis\.gradle\caches\transforms-2\files-2.1\d2717d3fb7f23671057b78676fc134b2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\tomis\.gradle\caches\transforms-2\files-2.1\5d4ee45e62156497c3e60b62016a6a4e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\tomis\.gradle\caches\transforms-2\files-2.1\5d4ee45e62156497c3e60b62016a6a4e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\tomis\.gradle\caches\transforms-2\files-2.1\4865c5fbf2fad98594cfe8b440f71b76\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\tomis\.gradle\caches\transforms-2\files-2.1\4865c5fbf2fad98594cfe8b440f71b76\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\tomis\.gradle\caches\transforms-2\files-2.1\e7206997a453db47e1857dcacfd6c56a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\tomis\.gradle\caches\transforms-2\files-2.1\e7206997a453db47e1857dcacfd6c56a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0-alpha05] C:\Users\tomis\.gradle\caches\transforms-2\files-2.1\384a196274fca72de4447d5b75f05602\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0-alpha05] C:\Users\tomis\.gradle\caches\transforms-2\files-2.1\384a196274fca72de4447d5b75f05602\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0-alpha05] C:\Users\tomis\.gradle\caches\transforms-2\files-2.1\6f7ca81b6478817fedb45065c9a4d3cc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0-alpha05] C:\Users\tomis\.gradle\caches\transforms-2\files-2.1\6f7ca81b6478817fedb45065c9a4d3cc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-alpha02] C:\Users\tomis\.gradle\caches\transforms-2\files-2.1\39632016fc1d28573298b2599dde4efb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-alpha02] C:\Users\tomis\.gradle\caches\transforms-2\files-2.1\39632016fc1d28573298b2599dde4efb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\tomis\.gradle\caches\transforms-2\files-2.1\e33e52fda79cf5a35dbdf86ca225d192\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\tomis\.gradle\caches\transforms-2\files-2.1\e33e52fda79cf5a35dbdf86ca225d192\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\tomis\.gradle\caches\transforms-2\files-2.1\4545431cf9b6e757b4ae2b54334ac9fa\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\tomis\.gradle\caches\transforms-2\files-2.1\4545431cf9b6e757b4ae2b54334ac9fa\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\tomis\.gradle\caches\transforms-2\files-2.1\d003d5a7fddb272783370ec796712a0c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\tomis\.gradle\caches\transforms-2\files-2.1\d003d5a7fddb272783370ec796712a0c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0-alpha03] C:\Users\tomis\.gradle\caches\transforms-2\files-2.1\aa2e553ea6ffb2486f3dc2c7c3695aef\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0-alpha03] C:\Users\tomis\.gradle\caches\transforms-2\files-2.1\aa2e553ea6ffb2486f3dc2c7c3695aef\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0-alpha02] C:\Users\tomis\.gradle\caches\transforms-2\files-2.1\0565daf3c49d237f2bdbeb46b6a165be\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0-alpha02] C:\Users\tomis\.gradle\caches\transforms-2\files-2.1\0565daf3c49d237f2bdbeb46b6a165be\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0-alpha03] C:\Users\tomis\.gradle\caches\transforms-2\files-2.1\fd1583ff7a17b701c10cc9c688cc6c89\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0-alpha03] C:\Users\tomis\.gradle\caches\transforms-2\files-2.1\fd1583ff7a17b701c10cc9c688cc6c89\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\tomis\.gradle\caches\transforms-2\files-2.1\6513cf77e8a16862f9bed0353ccefb7e\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\tomis\.gradle\caches\transforms-2\files-2.1\6513cf77e8a16862f9bed0353ccefb7e\AndroidManifest.xml:5:5-7:41
+INJECTED from C:\Users\tomis\Downloads\OCR-Food-ingredients--master\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\tomis\Downloads\OCR-Food-ingredients--master\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\tomis\Downloads\OCR-Food-ingredients--master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\tomis\Downloads\OCR-Food-ingredients--master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\tomis\Downloads\OCR-Food-ingredients--master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\tomis\Downloads\OCR-Food-ingredients--master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\tomis\Downloads\OCR-Food-ingredients--master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\tomis\Downloads\OCR-Food-ingredients--master\app\src\main\AndroidManifest.xml
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\tomis\.gradle\caches\transforms-2\files-2.1\1ef3d9586b0176aa26d1d40d638be34f\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\tomis\.gradle\caches\transforms-2\files-2.1\1ef3d9586b0176aa26d1d40d638be34f\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\tomis\.gradle\caches\transforms-2\files-2.1\1ef3d9586b0176aa26d1d40d638be34f\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\tomis\.gradle\caches\transforms-2\files-2.1\1ef3d9586b0176aa26d1d40d638be34f\AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\tomis\.gradle\caches\transforms-2\files-2.1\97ef93458fd6565cc1022d0e847e0a17\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\tomis\.gradle\caches\transforms-2\files-2.1\97ef93458fd6565cc1022d0e847e0a17\AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\tomis\.gradle\caches\transforms-2\files-2.1\97ef93458fd6565cc1022d0e847e0a17\AndroidManifest.xml:20:20-65
